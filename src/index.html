@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A modern Morse code translator for real-time text and Morse conversion.">
+    <meta property="og:title" content="Morse Code Translator">
+    <meta property="og:description" content="Convert text to Morse code and vice versa instantly.">
+    <meta property="og:image" content="/assets/images/og-image.jpg">
+    <title>Morse Code Translator | Advanced Communication Tool</title>
+    
+    <!-- Preload critical fonts -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <div class="logo">
+                <div class="logo-icon">
+                    <i class="material-icons">radio</i>
+                </div>
+                <span>Morse Translator Pro</span>
+            </div>
+            <div class="developer-tag">
+                Developed by Masingita Maluleke
+            </div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <section class="hero">
+            <h1>Advanced Morse Code Translator</h1>
+            <p>Experience seamless translation between text and Morse code with our intelligent, real-time converter. Built with modern web technologies for optimal performance and user experience.</p>
+        </section>
+
+        <section class="translator-card">
+            <div class="input-group">
+                <label class="input-label" for="msgInput">
+                    <i class="material-icons">edit</i>
+                    Input Text or Morse Code
+                </label>
+                <div class="input-container">
+                    <textarea 
+                        id="msgInput" 
+                        class="modern-textarea" 
+                        placeholder="Type your message here... The system will automatically detect and convert between text and Morse code"
+                        aria-label="Input for text or Morse code"
+                    ></textarea>
+                    <div class="char-counter" id="charCounter">0 characters</div>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="btn btn-primary" id="clearBtn" aria-label="Clear input and output">
+                    <i class="material-icons">clear_all</i>
+                    Clear All
+                </button>
+                <button class="btn btn-secondary" id="copyBtn" aria-label="Copy translated output">
+                    <i class="material-icons">content_copy</i>
+                    Copy Result
+                </button>
+                <button class="btn btn-secondary" id="swapBtn" aria-label="Swap input and output">
+                    <i class="material-icons">swap_vert</i>
+                    Swap
+                </button>
+            </div>
+
+            <div class="input-group">
+                <label class="input-label" for="msgOutput">
+                    <i class="material-icons">output</i>
+                    Translated Output
+                </label>
+                <div class="input-container">
+                    <textarea 
+                        id="msgOutput" 
+                        class="modern-textarea" 
+                        readonly
+                        placeholder="Translation will appear here automatically..."
+                        aria-label="Translated output"
+                    ></textarea>
+                    <div class="char-counter" id="outputCounter">0 characters</div>
+                </div>
+            </div>
+
+            <div class="status-indicator" id="statusIndicator" style="display: none;" role="status">
+                <div class="status-dot"></div>
+                <span id="statusText">Ready for translation</span>
+            </div>
+        </section>
+
+        <section class="features-grid">
+            <div class="feature-card">
+                <i class="material-icons feature-icon">speed</i>
+                <h3>Real-time Translation</h3>
+                <p>Instant conversion as you type with intelligent detection</p>
+            </div>
+            <div class="feature-card">
+                <i class="material-icons feature-icon">security</i>
+                <h3>Data Privacy</h3>
+                <p>Client-side processing ensures your data stays private</p>
+            </div>
+            <div class="feature-card">
+                <i class="material-icons feature-icon">devices</i>
+                <h3>Responsive Design</h3>
+                <p>Optimized for all devices and screen sizes</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div>
+                <p>© 2025 Masingita Maluleke | Software Engineer & UX Designer</p>
+            </div>
+            <div class="footer-links">
+                <a href="mailto:ortizmal201@gmail.com">Contact</a>
+                <a href="https://linkedin.com/in/thefreelancer201">LinkedIn</a>
+                <a href="https://github.com/Tinyu01">GitHub</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
