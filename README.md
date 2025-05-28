@@ -1,10 +1,10 @@
 # Morse Code Translator Pro
 
 <div align="center">
-  <img src="src/assets/images/banner.png" alt="Morse Code Translator Pro Banner" width="800"/>
+  <img src="src/assets/images/Screenshot1.jpg" alt="Morse Code Translator Pro Banner" width="800"/>
   
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://your-demo-link.vercel.app)
-  [![GitHub Stars](https://img.shields.io/github/stars/afzafri/Morse-Code-Translator?style=for-the-badge&logo=github)](https://github.com/afzafri/Morse-Code-Translator/stargazers)
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://tinyu01.github.io/Morse-Code-Translator/src/)
+  [![GitHub Stars](https://img.shields.io/github/stars/Tinyu01/Morse-Code-Translator?style=for-the-badge&logo=github)](https://github.com/Tinyu01/Morse-Code-Translator/stargazers)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
   [![Made with](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 </div>
@@ -235,7 +235,7 @@ MIT License © 2025 Masingita Maluleke
 
 - 📧 Email: [ortizmal201@gmail.com](mailto:ortizmal201@gmail.com)
 - 💼 LinkedIn: [thefreelancer201](https://linkedin.com/in/thefreelancer201)
-- 🐙 GitHub: [afzafri](https://github.com/afzafri)
+- 🐙 GitHub: [Tinyu01](https://github.com/Tinyu01)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
