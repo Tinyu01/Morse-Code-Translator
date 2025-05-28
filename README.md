@@ -213,9 +213,9 @@ We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBU
 
 Found a bug or have a feature idea? We'd love to hear from you!
 
-- **Bug Reports**: [Create an Issue](https://github.com/afzafri/Morse-Code-Translator/issues/new?template=bug_report.md)
+- **Bug Reports**: [Create an Issue](https://github.com/Tinyu01/Morse-Code-Translator/issues/new?template=bug_report.md)
 - **Feature Requests**: [Request a Feature](https://github.com/afzafri/Morse-Code-Translator/issues/new?template=feature_request.md)
-- **Questions**: [Start a Discussion](https://github.com/afzafri/Morse-Code-Translator/discussions)
+- **Questions**: [Start a Discussion](https://github.com/Tinyu01/Morse-Code-Translator/discussions)
 
 ---
 
@@ -236,7 +236,7 @@ MIT License © 2025 Masingita Maluleke
 - 📧 Email: [ortizmal201@gmail.com](mailto:ortizmal201@gmail.com)
 - 💼 LinkedIn: [thefreelancer201](https://linkedin.com/in/thefreelancer201)
 - 🐙 GitHub: [Tinyu01](https://github.com/Tinyu01)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [Portfolio.com](https://tinyu01.github.io/citi_portfolio_website/)
 
 ---
 
