@@ -15,7 +15,7 @@
 
 A modern, responsive web application for real-time Morse code translation, built with vanilla HTML, CSS, and JavaScript. Features a stunning glassmorphism UI design, instant encoding/decoding capabilities, and seamless cross-device compatibility.
 
-**🔗 [Live Demo](https://your-demo-link.vercel.app)** | **📱 [Mobile Preview](#screenshots)**
+**🔗 [Live Demo](https://tinyu01.github.io/Morse-Code-Translator/src/)** | **📱 [Mobile Preview](src/assets/images/Screenshot2.jpg)**
 
 ---
 
@@ -43,10 +43,10 @@ A modern, responsive web application for real-time Morse code translation, built
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="src/assets/images/desktop-screenshot.png" alt="Desktop View" width="700"/>
+  <img src="src/assets/images/Screenshot1.jpg" alt="Desktop View" width="700"/>
   <p><em>Desktop Interface</em></p>
   
-  <img src="src/assets/images/mobile-screenshot.png" alt="Mobile View" width="300"/>
+  <img src="src/assets/images/Screenshot2.jpg" alt="Mobile View" width="300"/>
   <p><em>Mobile Interface</em></p>
 </div>
 
@@ -62,7 +62,7 @@ A modern, responsive web application for real-time Morse code translation, built
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/afzafri/Morse-Code-Translator.git
+   git clone https://github.com/Tinyu01/Morse-Code-Translator.git
    cd Morse-Code-Translator
    ```
 
